@@ -57,6 +57,7 @@ body{
 }
 .weather{
     text-align: center;
+    display: none;
 }
 .weather-icon{
     width: 170px;

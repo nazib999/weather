@@ -45,6 +45,7 @@ async function checkWeather(city) {
            }
     
          searchBox.value="";
+         weather.style.display="block";
        
     } catch (error) {
        alert(error.message); 
